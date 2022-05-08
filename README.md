@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepak252
-- 👀 I’m interested in cross platform application developent with Flutter. Also I am interested in web development  React js , Competetive Programming.
+- 👀 I’m interested in cross platform application developent with Flutter. Also I am interested in web development, React js , Competetive Programming.
 - 🌱 I’m currently pursuing Btech from GGSIPU,USICT in Computer Science and Engineering.
 - 📫 Linkedin : https://www.linkedin.com/in/deepak-chaurasiya-992808193/
      Email : deepakkudc16102000@gmail.com
